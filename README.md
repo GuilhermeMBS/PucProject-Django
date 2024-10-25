@@ -1,2 +1,2 @@
-# puc-django-project
-Software Project - Computer Engeneering 
+# PucProject-Django
+College - Software Project - Computer Engeneering 
